@@ -7,3 +7,6 @@ salting, cookies, tokens, navigation, single page application etc, using compone
 Some points about using the source code after downloading :
 1. Add your own Username, password, database name, PORT number & secret key, in config.env file.
 2. If needed, delete the node modules and reinstall them through terminal. 
+
+NOTE :-
+Refer the document called "MERN Application Notes" in the main folder, to get the notes consisting of the flow of the entire application.
